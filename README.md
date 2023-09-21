@@ -150,8 +150,7 @@ https://www.kaggle.com/competitions/playground-series-s3e22/overview/evaluation
         . los valores normales se encuentran en el rango de 6 a 7,5 (g/dL)
         . cuanto mayor sea el valor mayor será la deshidratación
 
-    - Abdominocentesis appearance: apariencia de abdominocentesis. Se introduce una aguja en el abdomen del caballo y se obtiene líquido de
-la cavidad abdominal
+    - Abdominocentesis appearance: apariencia de abdominocentesis. Se introduce una aguja en el abdomen del caballo y se obtiene líquido de la cavidad abdominal
         Posibles valores:
             1 = clear
             2 = cloudy
