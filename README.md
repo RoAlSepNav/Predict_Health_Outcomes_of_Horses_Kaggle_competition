@@ -24,10 +24,9 @@
     3. Abre el Jupyter notebook horses_kaggle.ipynb y ejecuta las celdas de código paso a paso para explorar y analizar los datos.
 
 ### <span style="color:orange"> Contenido del Jupyter notebook
-    El cuaderno Jupyter proporciona un análisis completo de los datos del Titanic, que incluye:
-
-Exploración de datos: Resumen estadístico, visualización de datos, identificación de valores nulos, etc.
-    Preprocesamiento de datos: Limpieza de datos, manejo de valores faltantes, codificación de variables categóricas, etc.
-    Análisis de características: Visualización de relaciones entre características y supervivencia.
-    Modelado y predicción: Entrenamiento de modelos de aprendizaje automático para predecir la supervivencia de los pasajeros.
-    Evaluación del modelo: Evaluación de la precisión y rendimiento del modelo
+    El Jupyter notebook proporciona un análisis completo de los datos, que incluye:
+        - Exploración de datos: Resumen estadístico, visualización de datos, identificación de valores nulos, etc.
+        - Preprocesamiento de datos: Limpieza de datos, manejo de valores faltantes, codificación de variables categóricas, etc.
+        - Análisis de características: Visualización de relaciones entre características y supervivencia.
+        - Modelado y predicción: Entrenamiento de modelos de aprendizaje automático para predecir estado de salud de los caballos.
+        - Evaluación del modelo: Evaluación del  micro-averaged F1-Score y rendimiento del modelo.
