@@ -16,6 +16,7 @@ La métrica que se busca mejorar es el micro-averaged F1-Score. Este valor se ca
 - test.csv: Archivo CSV que contiene los datos de validación.
 - horse.csv: Archivo CSV que contiene los datos originales del dataset.
 - horses_kaggle.ipynb: Un Jupyter notebook que contiene el código Python para el análisis de datos.
+- funciones.py: Archivo Python que contiene las funciones utilizadas para este proyecto.
 - submission.csv: Archivo CSV que contiene las predicciones para el archivo test.csv de acuerdo a las instrucciones proporcionadas por Kaggle.
 
 ### <span style="color:orange"> Cómo usar este proyecto :question:
