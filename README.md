@@ -5,7 +5,7 @@ Este proyecto utiliza el conjunto de datos disponible en Kaggle (https://www.kag
 ### <span style="color:lightblue"> Evaluación
 La métrica que se busca mejorar es el micro-averaged F1-Score. Este valor se calcula usando la totalidad de verdaderos positivos, falsos positivos y falsos negativos, en lugar de calcular el f1 score individualmente para cada clase.
 
-### <span style="color:orange"> Herramientas Utilizadas:
+### <span style="color:orange"> Herramientas Utilizadas :wrench:
 - Python 3.9.17
 - Bibliotecas de análisis de datos: Pandas, NumPy.
 - Bibliotecas de visualización: Matplotlib, Seaborn.
