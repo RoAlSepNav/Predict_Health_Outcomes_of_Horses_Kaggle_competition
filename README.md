@@ -23,7 +23,7 @@ La métrica que se busca mejorar es el micro-averaged F1-Score. Este valor se ca
 2. Coloca los archivos CSV descargados (train.csv, test.csv, original.csv) en la misma carpeta que este proyecto.
 3. Abre el Jupyter notebook horses_kaggle.ipynb y ejecuta las celdas de código paso a paso para explorar y analizar los datos.
 
-### <span style="color:orange"> Contenido del Jupyter notebook
+### <span style="color:orange"> Contenido del Jupyter notebook :page_facing_up:
 El Jupyter notebook proporciona un análisis completo de los datos, que incluye:
 - Exploración de datos: Resumen estadístico, visualización de datos, identificación de valores nulos, etc.
 - Preprocesamiento de datos: Limpieza de datos, manejo de valores faltantes, codificación de variables categóricas, etc.
