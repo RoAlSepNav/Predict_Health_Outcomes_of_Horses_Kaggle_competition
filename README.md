@@ -18,10 +18,16 @@
     - horses_kaggle.ipynb: Un Jupyter notebook que contiene el código Python para el análisis de datos.
     - submission.csv: Archivo CSV que contiene las predicciones para el archivo test.csv de acuerdo a las instrucciones proporcionadas por Kaggle.
 
-
-
 ### <span style="color:orange"> Cómo usar este proyecto
     1. Descarga el conjunto de datos desde Kaggle: https://www.kaggle.com/competitions/playground-series-s3e22/data
     2. Coloca los archivos CSV descargados (train.csv, test.csv, original.csv) en la misma carpeta que este proyecto.
     3. Abre el Jupyter notebook horses_kaggle.ipynb y ejecuta las celdas de código paso a paso para explorar y analizar los datos.
-    
+
+### <span style="color:orange"> Contenido del Jupyter notebook
+    El cuaderno Jupyter proporciona un análisis completo de los datos del Titanic, que incluye:
+
+Exploración de datos: Resumen estadístico, visualización de datos, identificación de valores nulos, etc.
+    Preprocesamiento de datos: Limpieza de datos, manejo de valores faltantes, codificación de variables categóricas, etc.
+    Análisis de características: Visualización de relaciones entre características y supervivencia.
+    Modelado y predicción: Entrenamiento de modelos de aprendizaje automático para predecir la supervivencia de los pasajeros.
+    Evaluación del modelo: Evaluación de la precisión y rendimiento del modelo
