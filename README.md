@@ -216,3 +216,12 @@ https://www.kaggle.com/competitions/playground-series-s3e22/overview/evaluation
             1 = lived
             2 = died
             3 = was euthanized
+
+### <span style="color:orange"> Herramientas Utilizadas:
+    - Python 3.9.17
+    - Bibliotecas de análisis de datos: Pandas, NumPy.
+    - Bibliotecas de visualización: Matplotlib, Seaborn.
+    - Biblioteca de aprendizaje automático: scikit-learn.
+
+### <span style="color:orange"> Resultados y Conclusiones:
+    
