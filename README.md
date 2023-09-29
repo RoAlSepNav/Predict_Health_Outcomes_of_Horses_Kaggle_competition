@@ -3,13 +3,13 @@
 Este proyecto utiliza el conjunto de datos disponible en Kaggle (https://www.kaggle.com/competitions/playground-series-s3e22) para realizar un análisis de datos utilizando Python. El objetivo principal es explorar y comprender los datos, así como aplicar técnicas de análisis de datos y aprendizaje automático para predecir el estado de salud de los caballos en estudio en función de diversas características.
 
 ### <span style="color:lightblue"> Evaluación
-    La métrica que se busca mejorar es el micro-averaged F1-Score. Este valor se calcula usando la totalidad de verdaderos positivos, falsos positivos y falsos negativos, en lugar de calcular el f1 score individualmente para cada clase.
+La métrica que se busca mejorar es el micro-averaged F1-Score. Este valor se calcula usando la totalidad de verdaderos positivos, falsos positivos y falsos negativos, en lugar de calcular el f1 score individualmente para cada clase.
 
 ### <span style="color:orange"> Herramientas Utilizadas:
-    - Python 3.9.17
-    - Bibliotecas de análisis de datos: Pandas, NumPy.
-    - Bibliotecas de visualización: Matplotlib, Seaborn.
-    - Biblioteca de aprendizaje automático: scikit-learn.
+- Python 3.9.17
+- Bibliotecas de análisis de datos: Pandas, NumPy.
+- Bibliotecas de visualización: Matplotlib, Seaborn.
+- Biblioteca de aprendizaje automático: scikit-learn.
 
 ### <span style="color:orange"> Estructura del Proyecto
     - train.csv: Archivo CSV que contiene los datos de entrenamiento.
