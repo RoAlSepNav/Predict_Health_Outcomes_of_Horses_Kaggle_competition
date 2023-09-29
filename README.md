@@ -25,8 +25,8 @@ La métrica que se busca mejorar es el micro-averaged F1-Score. Este valor se ca
 
 ### <span style="color:orange"> Contenido del Jupyter notebook
 El Jupyter notebook proporciona un análisis completo de los datos, que incluye:
-    - Exploración de datos: Resumen estadístico, visualización de datos, identificación de valores nulos, etc.
-    - Preprocesamiento de datos: Limpieza de datos, manejo de valores faltantes, codificación de variables categóricas, etc.
-    - Análisis de características: Visualización de relaciones entre características y supervivencia.
-    - Modelado y predicción: Entrenamiento de modelos de aprendizaje automático para predecir estado de salud de los caballos.
-    - Evaluación del modelo: Evaluación del  micro-averaged F1-Score y rendimiento del modelo.
+- Exploración de datos: Resumen estadístico, visualización de datos, identificación de valores nulos, etc.
+- Preprocesamiento de datos: Limpieza de datos, manejo de valores faltantes, codificación de variables categóricas, etc.
+- Análisis de características: Visualización de relaciones entre características y supervivencia.
+- Modelado y predicción: Entrenamiento de modelos de aprendizaje automático para predecir estado de salud de los caballos.
+- Evaluación del modelo: Evaluación del  micro-averaged F1-Score y rendimiento del modelo.
