@@ -7,7 +7,7 @@
 
 https://www.kaggle.com/competitions/playground-series-s3e22/overview/evaluation
 
-### <span style="color:orange"> Significado de columnas:
+### <span style="color:orange"> Conjunto de datos:
     - Surgery: Identificador de pasajero.
         1 = Si, tuvo cirugía
         2 = Fue tratado sin cirugía
