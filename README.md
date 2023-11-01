@@ -1,33 +1,3 @@
-# Mi Proyecto
-
-## Tabla de contenidos
-
-1. [Descripción del Proyecto](### <span style="color:lightblue"> Descripción del Proyecto :clipboard:)
-2. [Instalación](#instalación)
-3. [Uso](#uso)
-4. [Contribución](#contribución)
-5. [Licencia](#licencia)
-
-## Introducción
-
-Esta es la introducción de mi proyecto.
-
-## Instalación
-
-Aquí se explica cómo instalar el proyecto.
-
-## Uso
-
-Detalles sobre cómo utilizar este proyecto.
-
-## Contribución
-
-Cómo puedes contribuir al proyecto.
-
-## Licencia
-
-Información sobre la licencia del proyecto.
-
 <img src="https://img.freepik.com/foto-gratis/ai-generated-horses-picture_23-2150650829.jpg?t=st=1697467232~exp=1697467832~hmac=fa391f8f0b9f9b2969c4d727dbf92e82f7c4a7e7472e1fa784c4a21b173aa5fb">
 
 # <span style="color:cyan"> Predict Health Outcomes of Horses :horse:
