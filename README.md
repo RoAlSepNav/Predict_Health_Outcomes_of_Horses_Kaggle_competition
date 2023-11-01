@@ -61,12 +61,12 @@ El Jupyter notebook proporciona un análisis completo de los datos, que incluye:
 ### Resultados :bar_chart:
 Se evaluaron todos los modelos utilizando la métrica micro-averaged F1-Score, y los resultados son los siguientes:
 
-Logistic Regression: F1-Score: 0.84
-K-Nearest Neighbors: F1-Score: 0.87
-Random Forest Classifier: F1-Score: 0.88
-Support Vector Classifier: F1-Score: 0.86
-Gradient Boosting Classifier: F1-Score: 0.89
-Bernoulli Naive Bayes: F1-Score: 0.82
-Linear Discriminant Analysis: F1-Score: 0.83
-AdaBoost Classifier: F1-Score: 0.86
-Voting Classifier: F1-Score: 0.89
+- Logistic Regression: F1-Score: 0.7
+- K-Nearest Neighbors: F1-Score: 0.68
+- Random Forest Classifier: F1-Score: 0.73
+- Support Vector Classifier: F1-Score: 0.71
+- Gradient Boosting Classifier: F1-Score: 0.74
+- Bernoulli Naive Bayes: F1-Score: 0.68
+- Linear Discriminant Analysis: F1-Score: 0.7
+- AdaBoost Classifier: F1-Score: 0.7
+- Voting Classifier: F1-Score: 0.75
