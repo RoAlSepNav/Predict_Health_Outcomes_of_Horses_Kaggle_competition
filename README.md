@@ -9,6 +9,7 @@
 5. [Cómo usar este proyecto](#cómo-usar-este-proyecto-question)
 6. [Contenido del Jupyter notebook](#contenido-del-jupyter-notebook-page_facing_up)
 7. [Modelos Utilizados](#modelos-utilizados-computer)
+8. [Resultados](#resultados-bar_chart)
 
 
 # Predict Health Outcomes of Horses :horse:
@@ -56,3 +57,16 @@ El Jupyter notebook proporciona un análisis completo de los datos, que incluye:
 - Linear Discriminant Analysis
 - AdaBoost Classifier
 - Voting Classifier
+
+### Resultados :bar_chart:
+Se evaluaron todos los modelos utilizando la métrica micro-averaged F1-Score, y los resultados son los siguientes:
+
+Logistic Regression: F1-Score: 0.84
+K-Nearest Neighbors: F1-Score: 0.87
+Random Forest Classifier: F1-Score: 0.88
+Support Vector Classifier: F1-Score: 0.86
+Gradient Boosting Classifier: F1-Score: 0.89
+Bernoulli Naive Bayes: F1-Score: 0.82
+Linear Discriminant Analysis: F1-Score: 0.83
+AdaBoost Classifier: F1-Score: 0.86
+Voting Classifier: F1-Score: 0.89
