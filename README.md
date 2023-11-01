@@ -13,7 +13,7 @@
 
 # Predict Health Outcomes of Horses :horse:
 
-### Descripción del Proyecto
+### Descripción del Proyecto clipboard
 Este proyecto utiliza el conjunto de datos disponible en Kaggle (https://www.kaggle.com/competitions/playground-series-s3e22) para realizar un análisis de datos utilizando Python. El objetivo principal es explorar y comprender los datos, así como aplicar técnicas de análisis de datos y aprendizaje automático para predecir el estado de salud de los caballos en estudio en función de diversas características.
 
 ### Evaluación :chart_with_upwards_trend:
