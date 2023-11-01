@@ -1,5 +1,18 @@
 <img src="https://img.freepik.com/foto-gratis/ai-generated-horses-picture_23-2150650829.jpg?t=st=1697467232~exp=1697467832~hmac=fa391f8f0b9f9b2969c4d727dbf92e82f7c4a7e7472e1fa784c4a21b173aa5fb">
 
+# Predict Health Outcomes of Horses :horse:
+
+## Tabla de contenidos
+
+1. [Descripción del Proyecto](#descripción-del-proyecto)
+2. [Evaluación](#evaluación)
+3. [Herramientas Utilizadas](#herramientas-utilizadas)
+4. [Estructura del Proyecto](#estructura-del-proyecto)
+5. [Cómo usar este proyecto](#cómo-usar-este-proyecto)
+6. [Contenido del Jupyter notebook](#contenido-del-jupyter-notebook)
+7. [Modelos Utilizados](#modelos-utilizados)
+
+
 # <span style="color:cyan"> Predict Health Outcomes of Horses :horse:
 ### <span style="color:lightblue"> Descripción del Proyecto :clipboard:
 Este proyecto utiliza el conjunto de datos disponible en Kaggle (https://www.kaggle.com/competitions/playground-series-s3e22) para realizar un análisis de datos utilizando Python. El objetivo principal es explorar y comprender los datos, así como aplicar técnicas de análisis de datos y aprendizaje automático para predecir el estado de salud de los caballos en estudio en función de diversas características.
