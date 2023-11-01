@@ -4,11 +4,11 @@
 
 1. [Descripción del Proyecto](#descripción-del-proyecto-clipboard)
 2. [Evaluación](#evaluación-chart_with_upwards_trend)
-3. [Herramientas Utilizadas](#herramientas-utilizadas)
-4. [Estructura del Proyecto](#estructura-del-proyecto)
-5. [Cómo usar este proyecto](#cómo-usar-este-proyecto)
-6. [Contenido del Jupyter notebook](#contenido-del-jupyter-notebook)
-7. [Modelos Utilizados](#modelos-utilizados)
+3. [Herramientas Utilizadas](#herramientas-utilizadas-wrench)
+4. [Estructura del Proyecto](#estructura-del-proyecto-open_file_folder)
+5. [Cómo usar este proyecto](#cómo-usar-este-proyecto-question)
+6. [Contenido del Jupyter notebook](#contenido-del-jupyter-notebook-page_facing_up)
+7. [Modelos Utilizados](#modelos-utilizados-computer)
 
 
 # Predict Health Outcomes of Horses :horse:
