@@ -35,12 +35,12 @@ El Jupyter notebook proporciona un análisis completo de los datos, que incluye:
 - Evaluación del modelo: Evaluación del  micro-averaged F1-Score y rendimiento del modelo.
 
 
-<span style="color:orange"> Modelos Utilizados :computer:
+### <span style="color:orange"> Modelos Utilizados :computer:
 Modelo 1 - Random Forest: Se utilizó un modelo Random Forest para la predicción de los estados de salud de los caballos. Este modelo se entrenó con los datos de entrenamiento y se ajustó utilizando la validación cruzada. Los hiperparámetros se ajustaron para obtener el mejor rendimiento en la métrica F1-Score.
 
 Modelo 2 - Gradient Boosting: Además del Random Forest, se probó un modelo de Gradient Boosting para comparar el rendimiento con el Random Forest. Se realizaron ajustes en los hiperparámetros para optimizar la precisión del modelo.
 
-<span style="color:orange"> Resultados :bar_chart:
+### <span style="color:orange"> Resultados :bar_chart:
 Se evaluaron los modelos utilizando la métrica micro-averaged F1-Score, y los resultados son los siguientes:
 
 Random Forest:
