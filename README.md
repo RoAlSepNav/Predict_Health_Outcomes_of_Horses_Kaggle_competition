@@ -2,7 +2,7 @@
 
 ## Tabla de contenidos
 
-1. [Descripción del Proyecto](#Descripción-del-Proyecto)
+1. [Descripción del Proyecto](#Descripción-del-Proyecto-:clipboard:)
 2. [Evaluación](#evaluación)
 3. [Herramientas Utilizadas](#herramientas-utilizadas)
 4. [Estructura del Proyecto](#estructura-del-proyecto)
