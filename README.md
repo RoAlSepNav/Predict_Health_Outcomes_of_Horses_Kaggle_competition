@@ -49,9 +49,9 @@ El Jupyter notebook proporciona un análisis completo de los datos, que incluye:
 
 ### Modelos Utilizados :computer:
 - Logistic Regression
-- K-Nearest Neighbors (KNN)
+- K-Nearest Neighbors Classifier
 - Random Forest Classifier
-- Support Vector Classifier (SVC)
+- Support Vector Classifier
 - Gradient Boosting Classifier
 - Bernoulli Naive Bayes
 - Linear Discriminant Analysis
@@ -62,11 +62,11 @@ El Jupyter notebook proporciona un análisis completo de los datos, que incluye:
 Se evaluaron todos los modelos utilizando la métrica micro-averaged F1-Score, y los resultados son los siguientes:
 
 - Logistic Regression: F1-Score: 0.7
-- K-Nearest Neighbors: F1-Score: 0.68
+- K-Nearest Neighbors Classifier: F1-Score: 0.68
 - Random Forest Classifier: F1-Score: 0.73
 - Support Vector Classifier: F1-Score: 0.71
 - Gradient Boosting Classifier: F1-Score: 0.74
-- Bernoulli Naive Bayes: F1-Score: 0.68
+- Bernoulli NB: F1-Score: 0.68
 - Linear Discriminant Analysis: F1-Score: 0.7
 - AdaBoost Classifier: F1-Score: 0.7
 - Voting Classifier: F1-Score: 0.75
