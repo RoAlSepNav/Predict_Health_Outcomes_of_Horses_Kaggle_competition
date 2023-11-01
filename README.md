@@ -70,3 +70,5 @@ Se evaluaron todos los modelos utilizando la métrica micro-averaged F1-Score, y
 - Linear Discriminant Analysis: F1-Score: 0.7
 - AdaBoost Classifier: F1-Score: 0.7
 - Voting Classifier: F1-Score: 0.75
+
+Para el Voting Classifier se hizo una combinación de los dos mejores modelos, logrando reducir el overfitting y así obtener un mejor desempeño del modelo sobre nuevos datos.
