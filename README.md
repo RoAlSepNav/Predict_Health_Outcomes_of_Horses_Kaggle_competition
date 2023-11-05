@@ -32,12 +32,13 @@ La métrica que se busca mejorar es el micro-averaged F1-Score. Este valor se ca
 - horse.csv: Archivo CSV que contiene los datos originales del dataset.
 - horses_kaggle.ipynb: Un Jupyter notebook que contiene el código Python para el análisis de datos.
 - funciones.py: Archivo Python que contiene las funciones utilizadas para este proyecto.
-- submission.csv: Archivo CSV que contiene las predicciones para el archivo test.csv de acuerdo a las instrucciones proporcionadas por Kaggle.
+- submission.csv: Archivo CSV que contiene las predicciones para el archivo `test.csv` de acuerdo a las instrucciones proporcionadas por Kaggle.
 
 ### Cómo usar este proyecto :question:
-1. Descarga el conjunto de datos desde Kaggle: https://www.kaggle.com/competitions/playground-series-s3e22/data
-2. Coloca los archivos CSV descargados (train.csv, test.csv, original.csv) en la misma carpeta que este proyecto.
-3. Abre el Jupyter notebook horses_kaggle.ipynb y ejecuta las celdas de código paso a paso para explorar y analizar los datos.
+1. Asegúrate de tener instalado Python 3.9.17 en tu sistema.
+2. Descarga el conjunto de datos desde Kaggle: https://www.kaggle.com/competitions/playground-series-s3e22/data
+3. Coloca los archivos CSV descargados (`train.csv`, `test.csv`, `original.csv`) en la misma carpeta que este proyecto.
+4. Abre el Jupyter notebook horses_kaggle.ipynb y ejecuta las celdas de código paso a paso para explorar y analizar los datos.
 
 ### Contenido del Jupyter notebook :page_facing_up:
 El Jupyter notebook proporciona un análisis completo de los datos, que incluye:
