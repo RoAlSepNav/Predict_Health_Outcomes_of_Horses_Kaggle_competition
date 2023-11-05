@@ -38,7 +38,7 @@ La métrica que se busca mejorar es el micro-averaged F1-Score. Este valor se ca
 1. Asegúrate de tener instalado Python 3.9.17 en tu sistema.
 2. Descarga el conjunto de datos desde Kaggle: https://www.kaggle.com/competitions/playground-series-s3e22/data
 3. Coloca los archivos CSV descargados (`train.csv`, `test.csv`, `original.csv`) en la misma carpeta que este proyecto.
-4. Abre el Jupyter notebook horses_kaggle.ipynb y ejecuta las celdas de código paso a paso para explorar y analizar los datos.
+4. Abre el Jupyter notebook `horses_kaggle.ipynb` y ejecuta las celdas de código paso a paso para explorar y analizar los datos.
 
 ### Contenido del Jupyter notebook :page_facing_up:
 El Jupyter notebook proporciona un análisis completo de los datos, que incluye:
